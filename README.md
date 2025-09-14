@@ -51,12 +51,12 @@ Após o processamento, todos os chamados são unificados em um **único DataFram
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/matheFontenele/Relatorio_Chamados.git
    ```
 
 2. Instale as dependências:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git    
+    pip install pandas
     ```
 3. Coloque os arquivos `otrs.csv`, `mcti.csv`, `ufsc.xlsx` e `clientes.csv` na pasta do projeto.
 
