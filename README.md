@@ -62,7 +62,7 @@ Após o processamento, todos os chamados são unificados em um **único DataFram
 
 4. Execute o script Python principal:
    ```bash
-    python consolidar_relatorio.py
+    python relatorio.py
     ```
 
 
